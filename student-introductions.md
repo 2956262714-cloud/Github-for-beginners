@@ -16,8 +16,8 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### 2956262714-cloud
-- **GitHub Username:** @2956262714-cloud
+### Seddimentation
+- **GitHub Username:** Seddimentation
 - **Location:** Prefer not to say
 - **Background:** Student learning Git and embedded development
 - **Learning Goals:** Practice branches, commits, pushes, and collaborative workflows
