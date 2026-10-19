@@ -16,12 +16,11 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
-
+### 2956262714-cloud
+- **GitHub Username:** @2956262714-cloud
+- **Location:** Prefer not to say
+- **Background:** Student learning Git and embedded development
+- **Learning Goals:** Practice branches, commits, pushes, and collaborative workflows
+- **Fun Fact:** This is my second Git practice repository
+- **Date Added:** October 19, 2026
 
